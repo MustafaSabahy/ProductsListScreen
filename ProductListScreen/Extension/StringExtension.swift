@@ -11,7 +11,7 @@ import Foundation
 enum Strings {
     
     enum URL: String {
-        case products = "https://my-json-server.typicode.com/MustafaSabahy/Task/products"
+        case products = "https://my-json-server.typicode.com/mustafasabahy/task/products"
     }
     
     enum Messages: String {
